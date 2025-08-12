@@ -1,6 +1,6 @@
 # TIME TRAVEL
 
-<img src="https://akaninyene.pythonanywhere.com/static/images/pic01.jpg" width="250">
+<img src="https://akaninyene.pythonanywhere.com/static/images/pic01.jpg" width="2500">
 
 Time Travel is a series to be by hosted by [Akaninyene David](https://www.linkedin.com/in/akaninyene-udoikono50).
 
