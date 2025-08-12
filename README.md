@@ -1,6 +1,6 @@
 # TIME TRAVEL
 
-<img src="https://raybo.org/tfit-feed/images/artwork.jpg](https://github.com/Udoikono/Podcast/blob/main/images/artwork.jpg" width="250">
+<img src="https://github.com/Udoikono/Podcast/blob/main/images/artwork.jpg" width="250">
 
 [Time Travel](https://go.raybo.org/tfit) is a series to be by hosted by [Akaninyene David](https://www.linkedin.com/in/akaninyene-udoikono50).
 
