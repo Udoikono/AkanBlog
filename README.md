@@ -11,7 +11,7 @@ At its core, quantum mechanics is the branch of physics that governs the behavio
 
 Consider Einstein's theory of general relativity, which describes gravity as the curvature of spacetime. When intertwined with quantum mechanics, it gives rise to ideas like wormholes—hypothetical tunnels through spacetime that could connect distant points, potentially allowing shortcuts not just through space, but through time. Theorists like Kip Thorne have explored how stable wormholes might enable backward time travel, though they'd require exotic matter with negative energy to stay open.
  
- <img src="(https://umbc.edu/wp-content/uploads/2023/11/time-travel.jpeg" width="2500"> 
+ <img src="(https://umbc.edu/wp-content/uploads/2023/11/time-travel.jpeg"> 
 
 Then there's the notion of closed timelike curves (CTCs), mathematical solutions in general relativity that loop back on themselves, permitting a traveler to revisit the past without violating causality—at least in theory. Quantum effects could stabilize these loops, avoiding paradoxes like the famous "grandfather paradox" through mechanisms such as the Novikov self-consistency principle, which suggests the universe would conspire to prevent inconsistencies.
 
