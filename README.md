@@ -1,9 +1,11 @@
 # TIME TRAVEL
 
 <img src="https://akaninyene.pythonanywhere.com/static/images/pic01.jpg" width="2500">
-[Akaninyene David](https://www.linkedin.com/in/akaninyene-udoikono50)
+
 
 # A Primer on Time Travel Through Quantum Mechanics
+
+[Akaninyene David] (https://www.linkedin.com/in/akaninyene-udoikono50)
 At its core, quantum mechanics is the branch of physics that governs the behavior of particles at the smallest scales—where the rules of classical physics break down, and phenomena like superposition (particles existing in multiple states at once) and entanglement (particles linked across vast distances instantaneously) reign supreme. These principles open doors to concepts that flirt with time manipulation.
 
 Consider Einstein's theory of general relativity, which describes gravity as the curvature of spacetime. When intertwined with quantum mechanics, it gives rise to ideas like wormholes—hypothetical tunnels through spacetime that could connect distant points, potentially allowing shortcuts not just through space, but through time. Theorists like Kip Thorne have explored how stable wormholes might enable backward time travel, though they'd require exotic matter with negative energy to stay open.
